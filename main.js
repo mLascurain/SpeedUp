@@ -1,7 +1,4 @@
 import './style.css'
-import javascriptLogo from './javascript.svg'
-import viteLogo from '/vite.svg'
-import { setupCounter } from './counter.js'
 
 document.getElementById('setSpeed').addEventListener('click', () => {
   const speed = parseFloat(document.getElementById('speed').value);
@@ -21,5 +18,3 @@ function setVideoSpeed(speed) {
     video.playbackRate = speed;
   });
 }
-
-setupCounter(document.querySelector('#counter'))
