@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "SpeedUp!",
+  "version": "1.0.0",
+  "description": "A basic extension that allows you to change the speed rate of a HTML5 video",
+    "action": {
+    "default_popup": "index.html"
+    },
+  "permissions": ["activeTab", "scripting"]
+}
