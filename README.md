@@ -1,4 +1,6 @@
 ## SpeedUp
 
 <p>Preview: </p>
-![](https://github.com/user-attachments/assets/82ccba10-8aaf-4f69-a52a-ae13b03bbda2)
+
+![](https://github.com/user-attachments/assets/76711133-500c-46ee-893b-35dce99f8a1e)
+
