@@ -10,7 +10,19 @@
     <h3>Video Playback Speed</h3>
   <div>
     <label for="speed">Set playback speed:</label>
-    <input type="number" id="speed" step="0.5" min="0.1" max="10.0" value="2.5">
+    <select id="speed">
+      <option value="0.25">0.25x</option>
+      <option value="0.5">0.5x</option>
+      <option value="1">1x (Normal)</option>
+      <option value="1.5">1.5x</option>
+      <option value="2">2x</option>
+      <option value="2.5" selected>2.5x</option>
+      <option value="3">3x</option>
+      <option value="3.5">3.5x</option>
+      <option value="4">4x</option>
+      <option value="4.5">4.5x</option>
+      <option value="5">5x</option>
+    </select>
     <button id="setSpeed">Set Speed</button>
   </div>
     <script type="module" src="/main.js"></script>
