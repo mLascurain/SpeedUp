@@ -1,6 +1,12 @@
 import './style.css'
 
-document.getElementById('setSpeed').addEventListener('click', () => {
+getSpeed()
+
+document.getElementById('speed').addEventListener('click', () => {
+  getSpeed()
+});
+
+function getSpeed(){
   const speed = parseFloat(document.getElementById('speed').value);
 
   chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
@@ -10,7 +16,7 @@ document.getElementById('setSpeed').addEventListener('click', () => {
       args: [speed]
     });
   });
-});
+}
 
 function setVideoSpeed(speed) {
   const videos = document.querySelectorAll('video');
