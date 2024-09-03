@@ -11,10 +11,17 @@ body {
   display: flex;
   flex-direction: column;
   place-items: center;
-  min-width: 305px;
-  min-height: 95px;
+  min-width: 225px;
+  min-height: 100px;
 }
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+}
+
+.socials {
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+  padding: 2% 0%;
 }
