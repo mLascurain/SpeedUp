@@ -1,6 +1,9 @@
 ## SpeedUp
 
+Chrome extension that allows the user to speed up any HTML5 video up to 4x speed
+
 <p>Preview: </p>
 
-![](https://github.com/user-attachments/assets/76711133-500c-46ee-893b-35dce99f8a1e)
+
+![PreviewPic](https://github.com/user-attachments/assets/039537ec-5f55-4c0d-a30e-3520587464f9)
 
