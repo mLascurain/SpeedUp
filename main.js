@@ -1,5 +1,17 @@
 import './style.css'
 
+// Get the selected value from storage, or default to 2.5
+let selectedValue = localStorage.getItem('selectedValue') || '2.5';
+
+document.getElementById('speed').value = selectedValue;
+
+// Update the selected value in storage when the user changes it
+document.getElementById('speed').addEventListener('change', (e) => {
+  selectedValue = e.target.value;
+  localStorage.setItem('selectedValue', selectedValue);
+  getSpeed();
+});
+
 getSpeed()
 
 document.getElementById('speed').addEventListener('click', () => {
