@@ -9,7 +9,8 @@ Chrome extension that allows the user to speed up any HTML5 video up to 4x speed
 
 ![MenuFolded](https://github.com/user-attachments/assets/ac5322fe-0fb1-4fb1-9046-0b02b955fdc7)
 
-Not Released
+> [!CAUTION]
+> Not Released Yet
 
 In order to use the extension you must have nodejs installed...
 Clone the repository and run the commands
