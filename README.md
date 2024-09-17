@@ -13,9 +13,9 @@ Not Released
 
 In order to use the extension you must clone the repository and run the command
 
-***
+---
 npm run build
-***
+---
 
 A floder named "dist" will apear in the project direcoty, just add that folder to chrome//extensions
 
