@@ -21,6 +21,8 @@ npm run build
 
 A floder named "dist" will apear in the project direcoty, just add that folder to "chrome://extensions/"
 
+**_NOTE:_** You have enable the developer mode first
+
 ![extension](https://github.com/user-attachments/assets/e107320e-874f-40e6-a8b1-1e268309abf3)
 
 after that just pin the extension and start using it!
