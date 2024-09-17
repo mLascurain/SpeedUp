@@ -17,5 +17,11 @@ In order to use the extension you must clone the repository and run the command
 npm run build
 ***
 
-A floder named "dist" will apear in the project direcoty, just add that folder to the chrome//extensions
+A floder named "dist" will apear in the project direcoty, just add that folder to chrome//extensions
+
 ![extension](https://github.com/user-attachments/assets/e107320e-874f-40e6-a8b1-1e268309abf3)
+
+after that just pin the extension and start using it!
+
+
+![pin_ext](https://github.com/user-attachments/assets/ee220974-3fea-4a48-951c-8f765c4b9bdb)
