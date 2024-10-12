@@ -10,7 +10,7 @@
 ![MenuFolded](https://github.com/user-attachments/assets/ac5322fe-0fb1-4fb1-9046-0b02b955fdc7)
 
 > [!CAUTION]
-> In order to use the extension you must have nodejs installed
+> In order to build the extension you must have nodejs installed
 
 Clone the repository and run the commands
 
