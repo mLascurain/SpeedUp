@@ -19,10 +19,10 @@ npm install
 npm run build
 ```
 
-A floder named "dist" will apear in the project direcoty, just add that folder to "chrome://extensions/"
+A floder named "dist" will apear in the project directory, just add that folder to "chrome://extensions/"
 
 > [!NOTE]  
-> You have enable developer mode first
+> You have to enable developer mode first
 
 ![extension](https://github.com/user-attachments/assets/e107320e-874f-40e6-a8b1-1e268309abf3)
 
